@@ -16,4 +16,3 @@
 
 * `pipenv --python C:\Users\FlynntKnapp\AppData\Local\Programs\Python\Python310\python.exe`
     * NOTE: Need to specify the path to the `python.exe` file.
-# python-310
